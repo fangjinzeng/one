@@ -15,5 +15,5 @@ One:
     - type: view
       style:
         width: "1"
-        hieght: "0.5"
+        height: "0.5"
         backgroundColor: "pink"

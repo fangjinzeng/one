@@ -7,6 +7,5 @@ languageSuffix:
 fileSuffix: .yml
 startPage: One
 preload:
-
 page:
   - One
