@@ -1,0 +1,19 @@
+One:
+  title: "one"
+  pageNumber:
+  init: #Page initialization
+
+  formData: #Input data here
+
+  formDataTemp: #Input data temp here, datatemp should not mix with formData
+
+  apiRequest: #Input data request here
+
+  style: #Input style fragment here
+
+  components:
+    - type: view
+      style:
+        width: "1"
+        hieght: "0.5"
+        backgroundColor: "pink"

@@ -1,0 +1,12 @@
+baseUrl: ${cadlBaseUrl}
+assetsUrl: ${cadlBaseUrl}assets/
+languageSuffix:
+  zh_CN: _cn
+  es_ES: _es8885098864
+  unknown: _en
+fileSuffix: .yml
+startPage: One
+preload:
+
+page:
+  - One
