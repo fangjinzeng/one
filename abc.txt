@@ -1,1 +1,1 @@
-count==payment
+count==2
